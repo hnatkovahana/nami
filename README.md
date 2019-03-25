@@ -1,4 +1,4 @@
-#Repozitář založen kvůli úkolu do NAMI.errre
+#Repozitář založen kvůli úkolu do NAMI.
 
 
 
