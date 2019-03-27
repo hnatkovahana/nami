@@ -2,26 +2,23 @@
 title: Home
 ---
 
-# Hello World! (It works!)
+**Cíl:**
+Přetvoření a rozšíření stránky, kterou jsem vytvářela do předmětu Informační fondy a služby.
 
-This are the contents of the Hugo start website front page.
+**Kontext:**
+Jelikož původní stránka byla vytvořena pomocí služby Wix.com a prakticky obsahuje jen kalendář a mapu hodů na Podluží, chtěla bych tuto stránku předělat a rozšířit.
 
-## Something to read: Sonnet LXVI.
+Jedná se o zmapování ne jen hodů v daných obcích, ale také jejich kroje, nebo jiných folklorních akcí a tradic na Podluží. 
 
-> *Tired with all these, for restful death I cry,  
-> As to behold desert a beggar born,  
-> And needy nothing trimm'd in jollity,  
-> And purest faith unhappily forsworn,  
-> And gilded honour shamefully misplaced,  
-> And maiden virtue rudely strumpeted,  
-> And right perfection wrongfully disgraced,  
-> And strength by limping sway disabled  
-> And art made tongue-tied by authority,  
-> And folly, doctor-like, controlling skill,  
-> And simple truth miscalled simplicity,  
-> And captive good attending captain ill:  
-> Tired with all these, from these would I be gone,  
-> Save that, to die, I leave my love alone.*
-> 
-> William Shakespeare
+Pro tento projekt jsem se rozhodla z důvodu, že jsem nenašla žádnou podobnou stránku, která by obsahovala všechny tyto součásti, které jsem popsala výše. Dále pak většina těchto stránek není aktualizovaná, nesdružuje tyto informace dohromady a nebo nevypadají úplně tak aby někoho zaujaly. 
+
+
+
+**Zdroje:**
+
+http://www.folkloratradice.cz/lidovy-kroj-podluzi/krajina-a-kroj
+
+https://mas-dolnimorava.cz/dedictvi/
+
+https://slovackyregion.cz/podluzi/region-podluzi
 
