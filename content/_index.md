@@ -21,4 +21,3 @@ http://www.folkloratradice.cz/lidovy-kroj-podluzi/krajina-a-kroj
 https://mas-dolnimorava.cz/dedictvi/
 
 https://slovackyregion.cz/podluzi/region-podluzi
-
