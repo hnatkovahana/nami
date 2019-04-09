@@ -1,9 +1,9 @@
 ---
-title: All albums of The Beatles
+title: Slovácká svatba na Podluží 
 date: 2018-03-15
 tags: 
-    - beatles
-    - data
+    - Podluží
+    - kniha
 ---
 
 This is just another post. And it illustrates a mighty functionality.
